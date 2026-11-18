@@ -34,3 +34,7 @@ Soy un profesional con trayectoria en coordinación de producción industrial en
 
 ### 🚀 Proyectos Destacados
 *Puedes ver el código y la documentación detallada de mis aplicaciones en mis repositorios fijados justo abajo.*
+### ⚙️ [SolidWorks AI Parameter Copilot](https://github.com/felipe03441-pixel/solidworks-ai-copilot)
+Puente de automatización CAD en Python que traduce lenguaje natural a parámetros geométricos validados para manufactura en torno, integrando **Google Gemini API (Structured Outputs)**, **Pydantic v2**, **Streamlit** y la **API COM de SolidWorks 2025 (`pywin32`)**.
+* **Ingeniería aplicada:** Bloqueo preventivo de espesores de pared críticos ($< 1.5\text{ mm}$) y chaflanes inválidos antes de tocar el modelo 3D.
+* **Arquitectura:** Patrón Adaptador Dual (ejecución en vivo en SolidWorks 2025 en español + modo simulación JSON) y respaldo determinista offline.
